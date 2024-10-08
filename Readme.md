@@ -3,7 +3,7 @@ exceute the sales view into the Adventure DB
 
 https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorks2022.bak
 
-Download and restore  and execute sales view
+Download, restore  and execute sales view
 
 
 step 1: Excute Python script which downloads the T5 model from hugging face and run Flask server
