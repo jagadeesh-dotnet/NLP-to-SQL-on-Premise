@@ -1,3 +1,5 @@
+I wanted to share that what we've implemented so far is an initial step in the process and it is just an sample to understand how to generate SQL from NLP. It may not be perfect yet, but hope it serves as a foundation, and we can certainly improve in future.
+
 Used the AdventureWorks DB for the example
 
 https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorks2022.bak
@@ -5,7 +7,7 @@ https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks
 Download, restore  and execute sales view
 
 
-step 1: Excute Python script which downloads the T5 model from hugging face and run Flask server
+step 1: Excute Python script which downloads the T5 model (T5-LM-Large-text2sql-spider) from hugging face and run Flask server
 
 step 2 : update the connection string & Run console app project in Visual studio and enter your queries with respect to schema
 
