@@ -1,5 +1,4 @@
 Used the AdventureWorks DB for the example
-exceute the sales view into the Adventure DB
 
 https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorks2022.bak
 
